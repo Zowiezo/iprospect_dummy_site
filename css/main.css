@@ -1,0 +1,118 @@
+
+element.style {
+}
+<style>
+.mosaic__row {
+    min-width: 100%;
+}
+<style>
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -8px;
+    margin-left: -8px;
+}
+<style>
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    vertical-align: baseline;
+    margin: 0px;
+    padding: 0px;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    font: inherit;
+}
+<style>
+*, ::after, ::before, html {
+    font-family: 'Open Sans Condensed', ;
+}
+<style>
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+<style>
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    vertical-align: baseline;
+    margin: 0px;
+    padding: 0px;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    font: inherit;
+}
+<style>
+*, ::after, ::before, html {
+    font-family: 'Open Sans Condensed', ;
+}
+<style>
+body {
+    line-height: 1;
+}
+<style>
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    vertical-align: baseline;
+    margin: 0px;
+    padding: 0px;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    font: inherit;
+}
+<style>
+*, ::after, ::before, html {
+    font-family: 'Open Sans Condensed', ;
+}
+<style>
+html, input {
+    font-weight: 400;
+    color: rgb(69, 85, 96);
+}
+<style>
+*, ::after, ::before, html {
+    font-family: 'Open Sans Condensed', ;
+}
+<style>
+html {
+    position: relative;
+    min-height: 100%;
+    -webkit-font-smoothing: antialiased;
+    scroll-behavior: smooth;
+}
+<style>
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    vertical-align: baseline;
+    margin: 0px;
+    padding: 0px;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    font: inherit;
+}
+user agent stylesheet
+html {
+    color: -internal-root-color;
+}
+<style>
+*, ::after, ::before, html {
+    font-family: 'Open Sans Condensed', ;
+}
+<style>
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+<style>
+*, ::after, ::before, html {
+    font-family: 'Open Sans Condensed', ;
+}
+<style>
+*, ::after, ::before {
+    box-sizing: border-box;
+}
